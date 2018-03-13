@@ -1,0 +1,56 @@
+.container{
+    background: #24323d;
+    padding: 15px;
+}
+.header{
+    background-color: #1AB188;
+    color: #DFF1F5;
+    text-align: center;
+    padding: 10px;
+    margin: 15px auto;
+    border-radius: 12px;
+}
+.subheader{
+    color: #DFF1F5;
+}
+.tab-content{
+    margin: 19px auto;
+}
+
+.nav-tabs{
+    height: 35px;
+}
+.nav-link{
+    color: #DFF1F5;
+}
+.task-text {
+    margin: 17px auto;
+    height: 145px;
+}
+.btn[type="submit"]{
+    background: #1AB188;
+}
+
+list{
+    color: #DFF1F5;
+    background-color: darkslategrey;
+
+
+}
+li{
+    color: #DFF1F5;
+    font-size: 14px;
+}
+li:hover{
+    background-color: #30b190;
+
+}
+.remove {
+    float: right;
+    display: inline-block;
+    height: 20px;
+    width: 21px;
+    background: url(images/icon-trash.png) no-repeat -27px, 0;
+    text-shadow: 2px 2px 1px #333;
+}
+
